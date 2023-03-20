@@ -1,4 +1,4 @@
-# DL_Assignment
+# Domain Adaptation
 
 This repository contains the project of the course Deep Learning held by professor Elisa Ricci at University of Trento.
 
